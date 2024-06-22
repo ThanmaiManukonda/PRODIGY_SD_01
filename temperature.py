@@ -1,5 +1,5 @@
 # Temperature in celsius degree
-celsius = float(input())
+celsius = float(input("Enter celsius:"))
  
 # Converting the temperature to
 # fehrenheit using the formula
